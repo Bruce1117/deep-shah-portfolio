@@ -1,0 +1,36 @@
+baseURL: ""
+languageCode: en-us
+title: Deep Shah
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello Starnger"
+    Content: gjcwdjgwjwkwkkwekwgdkgweddfvefefvd
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/deep-11-shah"
+    - name: github
+      url: "https://github.com/"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: exp
+      name: Exp
+      url: /exp/
+      weight: 30
