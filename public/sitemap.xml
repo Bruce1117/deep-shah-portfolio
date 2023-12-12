@@ -2,30 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/categories/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/tags/css/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/posts/first/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/tags/html/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/posts/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/tags/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/categories/tech/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/categories/tech/</loc>
     <lastmod>2023-12-11T12:55:50-08:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/about/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/hcdm/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/archives/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/blog/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/contact/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/guide_bot/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/ignite_projects/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/circ/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/projects/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/lunchbox/</loc>
+  </url><url>
+    <loc>https://eclectic-kangaroo-a38b71.netlify.app/undergrad_projects/</loc>
   </url>
 </urlset>

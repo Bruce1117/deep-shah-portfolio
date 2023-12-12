@@ -3,34 +3,77 @@ languageCode: en-us
 title: Deep Shah
 theme: PaperMod
 
+# params:
+#   homeInfoParams:
+#     Title: "Hello Starnger"
+#     Content: gjcwdjgwjwkwkkwekwgdkgweddfvefefvd
+#   socialIcons:
+#     - name: linkedin
+#       url: "https://www.linkedin.com/in/deep-11-shah"
+#     - name: github
+#       url: "https://github.com/"
+
+#   cover:
+#     linkFullImages: true
+
+#   ShowBreadCrumbs: true
+
+#   ShowPostNavLinks: true
+
 params:
-  homeInfoParams:
-    Title: "Hello Starnger"
-    Content: gjcwdjgwjwkwkkwekwgdkgweddfvefefvd
-  socialIcons:
-    - name: linkedin
-      url: "https://www.linkedin.com/in/deep-11-shah"
-    - name: github
-      url: "https://github.com/"
+    disableThemeToggle: true
+    params:
+    # defaultTheme: light
+    defaultTheme: dark
+    # defaultTheme: auto # to switch between dark or light according to browser theme
+    profileMode:
+        enabled: true
+        title: "Deep Shah" # optional default will be site title
+        subtitle: "Robotics Enthusiast"
+        imageUrl: "img/profile pic.jpeg" # optional
+        imageTitle: "Profile Pic" # optional
+        imageWidth: 360 # custom size
+        imageHeight: 420 # custom size
+        buttons:
+          - name: About
+            url: "/about"
+          - name: Projects
+            url: "/projects"
+          - name: Blog
+            url: "/blog"
+          - name: Contact
+            url: "/contact"
 
-  cover:
-    linkFullImages: true
+    socialIcons:
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/deep-11-shah"
+      - name: "github"
+        url: "https://github.com/"
 
-  ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
 
-  ShowPostNavLinks: true
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
     - identifier: projects
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: exp
-      name: Exp
-      url: /exp/
+    - identifier: blog
+      name: Blog
+      url: /blog/
       weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40

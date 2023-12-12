@@ -2,27 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deep Shah</title>
-    <link>/</link>
+    <link>https://eclectic-kangaroo-a38b71.netlify.app/</link>
     <description>Recent content on Deep Shah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Dec 2023 12:55:50 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 12:55:50 -0800</lastBuildDate><atom:link href="https://eclectic-kangaroo-a38b71.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/posts/first/</link>
       <pubDate>Mon, 11 Dec 2023 12:55:50 -0800</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/posts/first/</guid>
       <description>Heading 222 Para</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>About</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/about/</guid>
+      <description>about</description>
+    </item>
+    
+    <item>
+      <title>Aqualux - Revolutionizing Hydration, Effortlessly</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/hcdm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/hcdm/</guid>
+      <description>hcdm</description>
+    </item>
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/blog/</guid>
+      <description>blog</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/contact/</guid>
+      <description>contact</description>
+    </item>
+    
+    <item>
+      <title>Guide Robot for the Visually Impaired</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/guide_bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/guide_bot/</guid>
+      <description>guide_bot</description>
+    </item>
+    
+    <item>
+      <title>Ignite Labs</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/ignite_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/ignite_projects/</guid>
+      <description>ignite_projects</description>
+    </item>
+    
+    <item>
+      <title>Mars Rover - Canadian International Rover Challenge</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/circ/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/circ/</guid>
+      <description>circ</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/projects/</guid>
       <description>projects</description>
+    </item>
+    
+    <item>
+      <title>The Lunch Box Project - India</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/lunchbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/lunchbox/</guid>
+      <description>lunchbox</description>
+    </item>
+    
+    <item>
+      <title>Undergrad Projects</title>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/undergrad_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/undergrad_projects/</guid>
+      <description>undergrad_projects</description>
     </item>
     
   </channel>

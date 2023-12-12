@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Deep Shah</title>
-    <link>/tags/</link>
+    <link>https://eclectic-kangaroo-a38b71.netlify.app/tags/</link>
     <description>Recent content in Tags on Deep Shah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Dec 2023 12:55:50 -0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 12:55:50 -0800</lastBuildDate><atom:link href="https://eclectic-kangaroo-a38b71.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/tags/css/</link>
       <pubDate>Mon, 11 Dec 2023 12:55:50 -0800</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>https://eclectic-kangaroo-a38b71.netlify.app/tags/html/</link>
       <pubDate>Mon, 11 Dec 2023 12:55:50 -0800</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://eclectic-kangaroo-a38b71.netlify.app/tags/html/</guid>
       <description></description>
     </item>
     
