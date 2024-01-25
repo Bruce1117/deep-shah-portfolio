@@ -48,7 +48,7 @@ params:
       - name: "linkedin"
         url: "https://www.linkedin.com/in/deep-11-shah"
       - name: "github"
-        url: "https://github.com/"
+        url: "https://github.com/Bruce1117"
 
     ShowPostNavLinks: true
     ShowBreadCrumbs: true

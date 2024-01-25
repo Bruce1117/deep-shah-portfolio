@@ -7,6 +7,12 @@ summary: projects
 
 ---
 
+[![barc](../img/barc-9.png)](/barc/)
+# Model Predictive Control of Berkeley Autonomous Racing Car (BARC)
+[BARC](/barc/)
+
+---
+
 [![mars_rover_1](../img/mars_rover_1.png)](/circ/)
 # Mars Rover - Canadian International Rover Challenge
 [Mars Rover Prototype](/circ/)
