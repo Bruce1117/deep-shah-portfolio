@@ -1,1 +1,5 @@
-# deep-shah-portfolio
+## Roboticist | Software Enthusiast | F1 Fanatic
+
+Technology has automated and eased into our lives as a dependent shoulder. From self-driving cars to home robotic machines, we are accosted and comforted by our need for technology in the smooth execution of our daily tasks. Amongst the varied technologies, Robotics in particular has always piqued my interest. I believe that great things can only be achieved through the collaborative efforts of like minds. As such, I envision myself on an entrepreneurial track, inspired by the endeavors of visionaries such as Elon Musk and Steve Jobs, to revolutionize the field of robotics and UAVs through autonomy and AI.
+
+At my heart, I am a roboticist with experience in Motion planning and Autonomous navigation, Advanced control systems, System Integration and design and Rapid prototyping,. Excellent analytical, problem-solving, communication, team and leadership skills with strong numeracy and sense of urgency.
